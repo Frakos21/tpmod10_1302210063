@@ -1,0 +1,15 @@
+C:\tp\tpmod10_1302210063\AljabarLibraries\bin\Debug\net6.0\AljabarLibraries.exe
+C:\tp\tpmod10_1302210063\AljabarLibraries\bin\Debug\net6.0\AljabarLibraries.deps.json
+C:\tp\tpmod10_1302210063\AljabarLibraries\bin\Debug\net6.0\AljabarLibraries.runtimeconfig.json
+C:\tp\tpmod10_1302210063\AljabarLibraries\bin\Debug\net6.0\AljabarLibraries.dll
+C:\tp\tpmod10_1302210063\AljabarLibraries\bin\Debug\net6.0\AljabarLibraries.pdb
+C:\tp\tpmod10_1302210063\AljabarLibraries\obj\Debug\net6.0\AljabarLibraries.csproj.AssemblyReference.cache
+C:\tp\tpmod10_1302210063\AljabarLibraries\obj\Debug\net6.0\AljabarLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\tp\tpmod10_1302210063\AljabarLibraries\obj\Debug\net6.0\AljabarLibraries.AssemblyInfoInputs.cache
+C:\tp\tpmod10_1302210063\AljabarLibraries\obj\Debug\net6.0\AljabarLibraries.AssemblyInfo.cs
+C:\tp\tpmod10_1302210063\AljabarLibraries\obj\Debug\net6.0\AljabarLibraries.csproj.CoreCompileInputs.cache
+C:\tp\tpmod10_1302210063\AljabarLibraries\obj\Debug\net6.0\AljabarLibraries.dll
+C:\tp\tpmod10_1302210063\AljabarLibraries\obj\Debug\net6.0\refint\AljabarLibraries.dll
+C:\tp\tpmod10_1302210063\AljabarLibraries\obj\Debug\net6.0\AljabarLibraries.pdb
+C:\tp\tpmod10_1302210063\AljabarLibraries\obj\Debug\net6.0\AljabarLibraries.genruntimeconfig.cache
+C:\tp\tpmod10_1302210063\AljabarLibraries\obj\Debug\net6.0\ref\AljabarLibraries.dll
